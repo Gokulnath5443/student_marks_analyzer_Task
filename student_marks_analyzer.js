@@ -1,6 +1,6 @@
 // // Mini Project Assignment – JS Arrays
 // // Project Title: Student Marks Analyzer
-// // ans:
+// // ans:Self code
 // // 1️⃣ Create Student Data
 
 // let students = [

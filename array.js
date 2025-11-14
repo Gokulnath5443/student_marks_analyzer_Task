@@ -1,12 +1,12 @@
 // 🧩 Task 1: Sum of Array Elements
-// ans:
+// ans:Self code
 
 // let num=[5, 10, 15, 20]
 // let total=num.reduce((a,b)=>a+b,0)
 // console.log("Ans :",total)
 
 // 🧩 Task 2: Find Maximum and Minimum
-// ans:
+// ans:Self code
 
 // let num=[12, 7, 45, 22, 9]
 // let max=num.reduce((a,b)=>(a>b)?a:b)
@@ -16,7 +16,7 @@
 
 
 // 🧩 Task 3: Reverse an Array (without using reverse())
-// ans:
+// ans:Self code
 
 // let num=[1,2,3,4,5]
 
@@ -30,7 +30,7 @@
 // console.log("Ans :",fn(num))
 
 // 🧩 Task 4: Remove Duplicates from Array
-// ans:
+// ans:Self code
 
 // let num = [1, 2, 2, 3, 4, 4, 5];
 
@@ -46,7 +46,7 @@
 // console.log("Ans :",fn(num))
 
 // 🧩 Task 5: Count Occurrences of Each Element
-// ans:
+// ans:Self code
 
 //  let num = ["apple", "banana", "apple", "cherry", "banana", "apple"];
 
@@ -69,14 +69,14 @@
 
 
 // 🧩 Task 6: Filter Even Numbers
-// ans:
+// ans:Self code
 
 // let arr = [10, 15, 20, 25, 30];
 // let even=arr.filter(i=>i%2==0)
 // console.log("Ans :even=",even)
 
 // 🧩 Task 7: Merge Two Arrays Without Duplicates
-// ans:
+// ans:Self code
 
 // let a = [1, 2, 3];
 // let b = [3, 4, 5];
@@ -84,7 +84,7 @@
 // console.log("Ans :",c)
 
 // 🧩 Task 8: Sort Numbers Ascending & Descending
-// ans:
+// ans:Self code
 
 // let num = [42, 7, 19, 3, 25];
 // let Ascending=num.sort((a,b)=>a-b)
@@ -94,7 +94,7 @@
 
 
 // 🧩 Task 9: Find Second Largest Number
-// ans:
+// ans:Self code
 
 // let arr = [10, 25, 5, 30, 20];
 // let num=arr.sort((a,b)=>a-b);
@@ -108,21 +108,21 @@
 
 
 // 🧩 Task 11: Square Each Number (Using map())
-// ans:
+// ans:Self code
 
 // let nums = [2, 4, 6, 8];
 // let square=nums.map(n=>n*n)
 // console.log("Ans :",square)
 
 // 🧩 Task 12: Filter Words by Length (Using filter())
-// ans:
+// ans:Self code
 
 // let words = ["sun", "planet", "moon", "star", "galaxy"];
 // let len=words.filter(word=>word.length>4 )
 // console.log("Ans :",len)
 
 // 🧩 Task 13: Sum of Numbers (Using reduce())
-// ans:
+// ans:Self code
 
 // let numbers = [5, 10, 15, 20];
 // let total=numbers.reduce((a,b)=>a+b,0)
@@ -130,14 +130,14 @@
 
 
 // 🧩 Task 14: Find First Negative Number (Using find())
-// ans:
+// ans:Self code
 
 // let arr = [4, 8, -3, 9, -6];
 // let Negative=arr.find(n=>n<0)
 // console.log("Ans :",Negative);
 
 // 🧩 Task 15: Sort Objects by Age
-// ans:
+// ans:Self code
 
 // let users = [
 //   { name: "Alice", age: 25 },
@@ -150,7 +150,7 @@
 
 
 // 🧩 Task 16: Count Even and Odd Numbers (Using reduce())
-// ans:
+// ans:Self code
 
 // let nums = [1,2,3,4,5,6];
 // let sum=nums.reduce((a,n)=>{
@@ -166,21 +166,21 @@
 // console.log("Ans :",sum)
 
 // 🧩 Task 17: Remove Falsy Values (Using filter())
-// ans:
+// ans:Self code
 
 // let arr = [0, "hello", false, 42, "", null, "JS", undefined];
 // let sum=arr.filter(n=>(n!==null && n!==undefined && n!==Boolean &&n!="" &&n!==" "))
 // console.log("Ans :",sum);
 
 // 🧩 Task 18: Capitalize Each Word (Using map())
-// ans:
+// ans:Self code
 
 // let words = ["apple", "banana", "cherry"];
 // let sum=words.map(n=>n[0].toUpperCase()+n.slice(1))
 // console.log("Ans :",sum);
 
 // 🧩 Task 19: Group Numbers by Even/Odd
-// ans:
+// ans:Self code
 
 // let numbers = [10, 15, 20, 25, 30];
 
@@ -191,7 +191,7 @@
 
 
 // 🧩 Task 20: Find Average Marks (Using reduce())
-// ans:
+// ans:Self code
 
 // let marks = [75, 80, 90, 85];
 // let sum=marks.reduce((a,b)=>a+b/marks.length,0)
